@@ -5,7 +5,7 @@
 /**
  * main - Prints if number is positive, zero or negative
  *
- * Return: at 0
+ * Return: at :wq0
  */
 int main(void)
 {
